@@ -63,34 +63,4 @@ The SustainableSupplyChain project has extensive potential for expansion and enh
 ## Contract Address Details
 contract Id: ST13KSRB8X8S1QTBENT2PZ4KCAXN82CT618GKVS2J
 <img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/b209f6a1-3f56-44c8-9ec4-2e63e3555203" />
-**Network**: Stacks Mainnet
-**Contract Address**: [To be added after deployment]
-**Deployment Transaction**: [To be added after deployment]
-**Contract Owner**: [To be added after deployment]
 
-**Testnet Information** (for development and testing):
-**Testnet Address**: [To be added after testnet deployment]
-**Testnet Explorer**: [Explorer link to be added]
-
----
-
-### Technical Specifications
-- **Platform**: Stacks Blockchain
-- **Language**: Clarity
-- **Token Standard**: Custom ESG tracking implementation
-- **Data Storage**: On-chain for critical ESG metrics
-- **Verification**: Multi-level verification system
-
-### Getting Started
-1. Deploy the contract to Stacks testnet for testing
-2. Use Stacks CLI or web interface to interact with contract functions
-3. Register suppliers using the `register-supplier-esg` function
-4. Calculate sustainability metrics using the `calculate-sustainability-metrics` function
-5. Query ecosystem data through read-only functions
-
-### Contributing
-We welcome contributions from the global sustainability and blockchain community. Please refer to our contribution guidelines and code of conduct for more information.
-
----
-
-*Building a sustainable future, one transaction at a time.*
